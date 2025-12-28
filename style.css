@@ -15,7 +15,7 @@ body{
 .ou td{
   border: 1px solid;
   text-align: center;
-  font-size: 14px;
+  font-size: 20px;
 }
 .ou th{
   background-color: #ead7d7;
@@ -24,7 +24,7 @@ body{
 }
 .ou td.villa{
   background-color: #20d143;
-  font-size: 200px;
+  font-size: 50px;
 }
 .micro {
   padding: 20px 8px;
@@ -48,3 +48,4 @@ body{
   display: block;
 
 }
+
