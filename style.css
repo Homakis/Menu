@@ -26,10 +26,24 @@ body{
   background-color: #20d143;
   font-size: 50px;
 }
-.micro{
-  width: 100%;
+.micro {
+  padding: 20px 8px;
+  font-size: 40px;
 }
-.micro td{
-  padding: 12px 8px;
-  font-size: 15px;
+
+.ou th:nth-child(7),
+.ou td:nth-child(7){
+  width: 150px;
+}
+
+.ou td.Img{
+  padding: 0;
+  height: 150px;
+  overflow: hidden;
+}
+.ou td.Img img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;  
+  display: block;
 }
