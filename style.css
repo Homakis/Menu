@@ -15,7 +15,8 @@ body{
 .ou td{
   border: 1px solid;
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
+  word-break: break-all;
 }
 .ou th{
   background-color: #ead7d7;
@@ -48,4 +49,3 @@ body{
   display: block;
 
 }
-
